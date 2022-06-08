@@ -1,12 +1,11 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am Shivam Chaudhary.</h1>
+<h1> Hello < Developers />! I am Shivam Chaudhary.</h1>
 <p align='center'>
 </p>
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+IT+Under+Graduate+from+India;I'm+a+CPP+and+Python+Programmer;I'm+Web+Developer+and+Designer" /></a>
 </p>
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" />     About Me </h2>
+<h2> About Me </h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
 - 🔭 I’m currently working on Portfolio Website
@@ -18,7 +17,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I say no to Tea & Coffee
 
-<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools </h2>
+<h2>  Languages and Tools </h2>
 <br>  
 <a href="#" target="_blank"><img alt="Cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a href="#" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
@@ -37,12 +36,11 @@
 <a href="#" target="_blank"><img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
 <br>  
     
-<h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 32px> Github Stats </h2>
+<h2> Github Stats </h2>
 <a href="https://github.com/shivamchaudhary-r/github-readme-stats"><img alt="Shivam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shivamchaudhary-r&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/shivamchaudhary-r/github-readme-stats"><img alt="Shivam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamchaudhary-r&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
-<h2><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/handshake_1f91d.png" align="center"
-                width="28" /> Connect With Me</h2>
+<h2> Connect With Me</h2>
 
 [![Visits Badge](https://badges.pufler.dev/visits/shivamchaudhary-r/shivamchaudhary-r?style=for-the-badge)](https://github.com/shivamchaudhary-r)  
 <a href="#" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"></a>
