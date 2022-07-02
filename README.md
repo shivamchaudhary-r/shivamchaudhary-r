@@ -37,12 +37,11 @@
 <br>  
     
 <h2> Github Stats </h2>
-<a href="https://github.com/shivamchaudhary-r/github-readme-stats"><img alt="Shivam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shivamchaudhary-r&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/shivamchaudhary-r/github-readme-stats"><img alt="Shivam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamchaudhary-r&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  
+    <a href="https://github.com/shivamchaudhary-r/github-readme-stats"><img alt="Jayant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shivamchaudhary-r&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/shivamchaudhary-r/github-readme-stats"><img alt="Jayant's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamchaudhary-r&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 <h2> Connect With Me</h2>
 
-[![Visits Badge](https://badges.pufler.dev/visits/shivamchaudhary-r/shivamchaudhary-r?style=for-the-badge)](https://github.com/shivamchaudhary-r)  
 <a href="#" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"></a>
 <a href="#" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](#) 
@@ -52,6 +51,10 @@
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](#) 
 </p>
+<a href="https://github.com/shivamchaudhary-r/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=shivamchaudhary-r"></a>
+<a href="https://github.com/shivamchaudhary-r?tab=followers"><img src="https://img.shields.io/github/followers/shivamchaudhary-r?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
