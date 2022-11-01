@@ -9,8 +9,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
 - 🔭 I’m currently working on SmartRoom
-- 🌱 I’m currently learning React.js 
-- 👯 I’m looking to collaborate on Frontend and Django Projects
+- 🌱 I’m currently learning DSA.
 - 💬 Ask me about Technology Cinema Anime Music and Sports
 - 📫 How to reach me: atshivamchaudhary@gmail.com
 - 😄 Pronouns: he/him
