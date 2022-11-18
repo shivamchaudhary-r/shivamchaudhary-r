@@ -8,12 +8,12 @@
 <h2> About Me </h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
-- 🔭 I’m currently working on SmartRoom
-- 🌱 I’m currently learning DSA.
-- 💬 Ask me about Technology Cinema Anime Music and Sports
-- 📫 How to reach me: atshivamchaudhary@gmail.com
+- 🔭 Currently working on SmartRoom using Web Dev And ML.
+- 🌱 Lately learning DSA.
+- 💬 Let's talk about Pop Culture.
+- 📫 Reach me: atshivamchaudhary@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I say no to Tea & Coffee
+- ⚡ Fun fact: I say no to Tea & Coffee.
 
 <h2>  Languages and Tools </h2>
 <br>  
@@ -24,10 +24,12 @@
 <a href="#" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
 <a href="#" target="_blank"><img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="#" target="_blank"><img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="scss" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
 <a href="#" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="#" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href="#" target="_blank"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></a>
 <a href="#" target="_blank"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="MaterialUI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"></a>
 <a href="#" target="_blank"><img alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="#" target="_blank"><img alt="jyupter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
 <a href="#" target="_blank"><img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
