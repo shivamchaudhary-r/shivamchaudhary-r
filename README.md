@@ -13,7 +13,9 @@
 - 📫 Reach me: atshivamchaudhary@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I say no to Tea & Coffee.
-
+<br>
+<br>
+<br>
 <h2>  Languages and Tools </h2>
 <a href="#" target="_blank"><img alt="Cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a href="#" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
