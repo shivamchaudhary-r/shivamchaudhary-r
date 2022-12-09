@@ -6,6 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+IT+Under+Graduate+from+India;I'm+a+CPP+and+Python+Programmer;I'm+Web+Developer+and+Designer" /></a>
 </p>
 <h2> About Me </h2>
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
 - 🔭 Currently working on Project SmartRoom.
@@ -13,10 +14,9 @@
 - 📫 Reach me: atshivamchaudhary@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I say no to Tea & Coffee.
-<br>
-<br>
-<br>
+
 <h2>  Languages and Tools </h2>
+
 <a href="#" target="_blank"><img alt="Cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a href="#" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 <a href="#" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
