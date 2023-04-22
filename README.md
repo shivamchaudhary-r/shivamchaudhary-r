@@ -13,7 +13,6 @@
 - 💬 Let's talk about Pop Culture.
 - 📫 Reach me: atshivamchaudhary@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I say no to Tea & Coffee.
 
 <h2>  Languages and Tools </h2>
 
