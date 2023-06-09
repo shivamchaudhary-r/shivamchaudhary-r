@@ -42,12 +42,9 @@
   <br/>
 <h2> Connect With Me</h2>
 
-<a href="#" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"></a>
 <a href="#" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](#)
-[<img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](#) 
 </p>
 <a href="https://github.com/shivamchaudhary-r/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=shivamchaudhary-r"></a>
