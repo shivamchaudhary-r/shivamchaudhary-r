@@ -1,6 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <h2> About Me </h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+<br>
 - 👨‍🎓 Hello I am Shivam Chaudhary! <br>
 - 🔭 Currently working on Project SmartRoom. <br>
 - 💬 Talk to me about Pop Culture and Tech. <br>
