@@ -38,10 +38,10 @@
 <br>  
     
 <h2> Github Stats </h2>
-<a href="https://github.com/shivamchaudhary-r/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamchaudhary-r&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamchaudhary-r&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamchaudhary-r&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
- 
 <br>
 <br>
 
