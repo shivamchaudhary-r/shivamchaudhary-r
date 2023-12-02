@@ -6,8 +6,11 @@
 - 🔭 Currently working on Project SmartRoom. <br>
 - 💬 Talk to me about Pop Culture and Tech. <br>
 - 📫 Reach me: atshivamchaudhary@gmail.com <br>
-- 😄 Pronouns: he/him
-
+- 😄 Pronouns: he/him <br>
+<br>
+<a href="https://github.com/shivamchaudhary-r/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=shivamchaudhary-r"></a>
+<a href="https://github.com/shivamchaudhary-r?tab=followers"><img src="https://img.shields.io/github/followers/shivamchaudhary-r?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
 <br>
 
@@ -35,13 +38,14 @@
     
 <h2> Github Stats </h2>
 <a href="https://github.com/shivamchaudhary-r/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamchaudhary-r&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+
+
  
 <br>
 <br>
-<a href="https://github.com/shivamchaudhary-r/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=shivamchaudhary-r"></a>
-<a href="https://github.com/shivamchaudhary-r?tab=followers"><img src="https://img.shields.io/github/followers/shivamchaudhary-r?label=Followers&style=social" alt="GitHub Badge"></a>
-<br>
+
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
